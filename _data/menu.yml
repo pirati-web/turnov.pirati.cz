@@ -16,13 +16,16 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-    submenu:
-        - link: /lide
-          name: Naši lidé
-          match: lide
-  - link: /komunalni-volby/
+  - link: /komunalni-volby/turnov2018 #/praha2018
     name: Komunální volby
     match: komunalni-volby
+    submenu:
+      - link: /komunalni-volby/turnov2018
+        name: Program na radnici
+        match: radnice
+    #  - link: /komunalni-volby/senat
+    #    name: Senát
+    #    match: senat
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -31,7 +34,7 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /pripoj-se/
+      - link: https://liberecky.pirati.cz/pripoj-se
         name: Dej nám vědět
   - class: small-12 medium-4
     title: Makáme

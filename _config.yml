@@ -14,12 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Piráti Turnov
-email: 
+email: pirati-turnov@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+  Piráti Turnov
+keywords: piráti, turnov, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody,  e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -33,9 +31,9 @@ sass:
 organization:
   name: Piráti Turnov
   shortName: Piráti Turnov
-  contactUid: jakub.pirat
-  email: info@pirati.cz
-  phone: +420 777 123 456 789
+  contactUid: david.schindler
+  email: david.schindler@pirati.cz
+  phone: +420 777 999 999
   address: |
     Piratská planeta 1
     100 00 Pirátsko
@@ -44,13 +42,13 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects
 
 homepageBanner:
-  display: false
+  display: true
   link: /komunalni-volby/
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-    default: path/to/img.jpg
-    mobile: path/to/img.jpg
+    default: banner-default.jpg
+    mobile: banner-mobile.jpg
 
 calendar:
   # Get api key from Google Developer Console
@@ -84,17 +82,6 @@ github:
   url: https://github.com/pirati-web/jekyll-theme-pirati/
   branch: master
 
-# Image banner on the top of the homepage. Useful for promoting current events.
-homepageBanner:
-  display: false
-  link: /komunalni-volby/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-    default: filename.jpg #obrazek vložte do assets/img
-    mobile: filename.jpg #obrazek vložte do assets/img
-
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
@@ -116,22 +103,27 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /komunalni-volby/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "page"
+      layout: "person"
       rbar: "people, foto, personContact"
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
+      layout: "program-post"
       rbar: "garant, program"
 
 emptyArray: []
@@ -152,7 +144,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.5.0/_sass
+    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-4.2.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
