@@ -19,10 +19,10 @@ main:
   - link: /komunalni-volby #turnov2018 #/praha2018
     name: Komunální volby
     match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby # /turnov2018
-        name: Program na radnici
-        match: radnice
+    #submenu:
+    #  - link: /komunalni-volby # /turnov2018
+    #    name: Program na radnici
+    #    match: radnice
     #  - link: /komunalni-volby/senat
     #    name: Senát
     #    match: senat
