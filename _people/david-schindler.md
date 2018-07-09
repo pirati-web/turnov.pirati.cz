@@ -4,6 +4,7 @@ name:     David Schindler  	# běžně používáné jméno
 fullname: David Schindler  	# jméno s tituly etc.
 category:
   - clenove
+  - kontaktni_osoba
 description: Vlakvedoucí
 profession: Vlakvedoucí, České Dráhy a.s.
 img: people/david-schindler.jpg # zakomentuj radek dokud není fotka

@@ -29,14 +29,19 @@ Zbyněk Miklík se narodil v 17. února 1975 v Boskovicích, studoval v Brně, �
 **Mé priority ve zkratce:**
 
 Otevřenost, srozumitelnost, transparentnost
-
-- Transparentní, rovné a nediskriminační veřejné zakázky města Turnov
-- Elektronizace veřejných zakázek včetně zakázek malého rozsahu
+-	Transparentní, rovné a nediskriminační veřejné zakázky města Turnov
+-	Elektronizace veřejných zakázek včetně zakázek malého rozsahu
 - Jasně definovaný způsob hodnocení zakázek města s důrazem na kritéria ekonomické výhodnosti nabídek a otevřenost zakázek uchazečům
-- Srozumitelně interpretované informace, přístupné na Internetu, týkající se připravovaných investičních záměrů, způsobu hodnocení nabídek a způsobu výběru dodavatele u realizovaných veřejných zakázek.
+-	Srozumitelně interpretované informace, přístupné na Internetu, týkající se připravovaných investičních záměrů, způsobu hodnocení nabídek a způsobu výběru dodavatele u realizovaných veřejných zakázek.
 - V případě prodeje městského majetku využívat elektronické aukce (žádné „obálkové“ metody), včetně aktivního šíření informací týkajících se prodeje majetku na sociálních sítích (ne „jen vyvěsit a čekat“)
-- „Otevřený úřad vůči občanům“. Zaměřit se na maximalizaci on-line služeb městského úřadu (poplatky formou převodu nebo trvalého příkazu). Možnost on-line rezervace konkrétního data a času pro jednání s úřadem (evidence řidičů, evidence vozidel, živnostenský úřad, atd.)
-- Podpora bytové výstavby v Turnově ze strany města
-- Podpora spolků, volnočasových a zájmových aktivit mládeže
-- Zasadit se za realizaci úprav areálu bývalého koupaliště Dolánky v souladu s názory obyvatel města Turnova
-- Cestovní ruch - Karta města Turnov
+-	Výběrová řízení na služby s velkým počtem poskytovatelů uskutečníme formou internetové aukce. Urychlíme tak výběrová řízení a každý občan bude mít přehled, kdo a za kolik měl o zakázku zájem.
+- Průhledným dotačním procesem pozitivně ovlivníme počet a kvalitu zájemců, zabráníme “malým domů” a zajistíme rovný přístup ke všem žadatelům.
+-	Informace o dotacích budeme publikovat v uživatelsky dostupné formě. Zveřejníme údaje o úspěšných i neúspěšných žadatelích. Veškeré výsledky dotačních řízení jasně zdůvodníme.
+
+Maximální podpora vzniku okresu Turnov
+
+Větší vliv Turnova ve VHS
+
+Turistický ruch
+-	Využití areálu bývalého koupaliště Dolánky. Budeme usilovat o obnovení koupaliště v podobě přírodního biotopu vhodného pro koupání
+-	Zatraktivnit Kartu hosta Českého ráje. Spojit kartu s některým existujícím a rozšířeným programem v ČR a tím kartu více propagovat. Karta by měla být “k ruce” také občanům a nabízet jim benefity, které zpříjemní život ve městě. Zároveň by sloužila např. jako karta do knihovny, nosič permanentek apod.
