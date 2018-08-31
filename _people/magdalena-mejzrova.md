@@ -2,8 +2,11 @@
 uid: magdalena.mejzrova
 name:     Magdalena Mejzrová  	# běžně používáné jméno
 fullname: Mgr. Magdalena Mejzrová  	# jméno s tituly etc.
+titles:
+  after: Mgr.
 category:
   - clenove
+ordclenove: 4  
 description: Překladatelka, tlumočnice, učitelka
 profession: Překladatelka, tlumočnice, učitelka. Členka Pirátské strany od června 2014
 img: people/magdalena-mejzrova.jpg # zakomentuj radek dokud není fotka

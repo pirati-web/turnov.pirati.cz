@@ -4,6 +4,7 @@ name:     Daniela Weissová  	# běžně používáné jméno
 fullname: Daniela Weissová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - clenove
+ordclenove: 2  
 img: people/daniela-weissova.jpg   # 165 x 220
 description: Dramaturg KC Turnov, zdravotní klaun            	# kratký popis, max 160 znaků
 mail:

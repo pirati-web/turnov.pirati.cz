@@ -7,13 +7,14 @@ keywords: kontakt, turnov, pirati, adresa, telefon, mail, facebook, kde najdu, k
 
 ## Přidejte se
 
-Zajímá vás co piráti dělají? Ozvěte se Davidu Schindlerovi nebo přijďte k nám na schůzi kterou pořádáme v Turnově.
+### Zajímá vás co piráti dělají?
+Ozvěte se [Davidu Schindlerovi](/lide/david-schindler/), [Daniele Weissové](/lide/daniela-weissova/) nebo [Zbyňkovi Miklíkovi](/lide/zbynek-miklik/).
 
-Chcete přístup k pirátskym systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
+Chcete se stát Pirátem nebo příznivcem? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz). 
-Pokud chcete darovat přimo našemu krajskému sdružení MS poradtě se s KoDo.
+### Zajímá vás aktuální dění?
 
+Pro novinky na Turnovsku sledujete náš [Facebook](https://www.facebook.com/pirati.turnov/) 
 
-Strany našeho kraje jsou [https://liberecky.pirati.cz/](https://liberecky.pirati.cz/)
+Oficiální webové stránky Pirátů Libereckého kraje najdete na [https://liberecky.pirati.cz/](https://liberecky.pirati.cz/)
 

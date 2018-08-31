@@ -5,6 +5,7 @@ fullname: Lucie Černohouzová, DiS  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
+ordclenove: 6  
 #  - kontaktni_osoba
 description: Sociální pracovnice ve státní správě
 profession: Sociální pracovnice ve státní správě a neziskovém sektoru

@@ -1,4 +1,7 @@
 top:
+  - link: "Piráti - Liberecký kraj"
+    url:  "https://liberecky.pirati.cz"
+    icon: "fa fa-home"
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
@@ -35,14 +38,16 @@ bottom:
     title: Připoj se
     links:
       - link: https://liberecky.pirati.cz/pripoj-se
-        name: Dej nám vědět
+        name: Staň se členem
+      - link: /kontakt/
+        name: Kontakt
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
         name: Lidé
       - link: /komunalni-volby/
-        name: Volby
+        name: Komunální volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

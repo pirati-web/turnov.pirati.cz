@@ -33,12 +33,13 @@ organization:
   shortName: Piráti Turnov
   contactUid: david.schindler
   email: david.schindler@pirati.cz
-  phone: +420 777 999 999
+  phone: +420 605 168 581
   address: |
-    Piratská planeta 1
-    100 00 Pirátsko
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+    PIXEL - Pirátské centrum libereckého kraje
+    Generála Mrázka 413/4 
+    468 01 Jablonec nad Nisou
+  #residenceImg:
+  mapLink: https://mapy.cz/zakladni?x=15.1709248&y=50.7244738&z=18&source=firm&id=12829995
   redmineLink: https://redmine.pirati.cz/projects
 
 homepageBanner:
@@ -59,12 +60,12 @@ calendar:
 
 facebook:
   loadSDK: true
-  profilePage:
+  profilePage: https://www.facebook.com/pirati.turnov/
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: PiratiLiK
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -144,7 +145,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-4.2.1/_sass
+    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-6.6.1/_sass
     - assets/css
     - assets/fonts
     - assets/video

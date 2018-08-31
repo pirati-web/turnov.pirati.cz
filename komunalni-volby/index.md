@@ -5,9 +5,8 @@ layout: communal-elections
 title: Komunální volby v Turnově
 campaignCategoryUid: turnov2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
-
 ---
 
-Úvodní text. Např vysvětlení koalice, podpory.
+Jsme Piráti a nabízíme konkrétní řešení. Budeme dohlížet na město aby fungovalo transparentně a budeme se snažit prosadit náš program.
 
-> "Vyhrajeme vobly vobly", říká leader.
+Rozhodně odmítáme koalici s hnutím ANO a KSČM, tedy stranami, které v Turnově podaly kandidátní listiny a kategoricky s jejich působením nesouhlasíme.

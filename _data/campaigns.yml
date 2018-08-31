@@ -6,5 +6,5 @@
   campaigns:
     - title: Program na radnici   # individual campaigns within the group
       categoryUid: turnov2018
-    - title: Senát
-      categoryUid: senat
+    #- title: Senát
+    #  categoryUid: senat

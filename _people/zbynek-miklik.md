@@ -2,9 +2,12 @@
 uid: zbynek.miklik
 name:     Zbyněk Miklík  	# běžně používáné jméno
 fullname: Ing. Zbyněk Miklík  	# jméno s tituly etc.
+titles:
+  before: Ing.
 category: 
   - clenove
 #  - pms
+ordclenove: 1
 description: Konzultant, poradenství a školení
 profession: elektronizace veřejné správy se specializací na veřejné zakázky, poradenství a školení v oblasti nákupu a zadávání veřejných zakázek
 img: people/zbynek-miklik.jpg # zakomentuj radek dokud není fotka
