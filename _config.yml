@@ -28,6 +28,10 @@ sass:
   style: compressed
   sass_dir: _sass
 
+administrator:
+  email: marek.forster@pirati.cz # mail kam pujdou chybove vystupy
+
+
 organization:
   name: Piráti Turnov
   shortName: Piráti Turnov
