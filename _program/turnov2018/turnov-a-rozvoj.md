@@ -4,7 +4,7 @@ uid: turnov-a-rozvoj
 campaignCategoryUid: turnov2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
-garant: david.schindler
+garant: zbynek.miklik
 perex: Vznik okresu Turnov, využívání brownfieldů, zvýšení dotací na obnovu objektů v památkové zóně.<br/>Finanční podpora zpětného využití dešťových vod, využití areálu bývalého koupaliště Dolánky.<br/>Rekonstrukce městských bytů, zřízení odpovídající občanské vybavenosti v Turnově 2. 
 order: 8
 ---

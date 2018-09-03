@@ -4,7 +4,7 @@ uid: volny-cas-kultura-a-sport
 campaignCategoryUid: turnov2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: david.schindler
+garant: daniela.weissova
 perex: >
     Podpora a zatraktivnění letního kina, podpora spolků a sportovních organizací, přístavby městského divadla, nové knihovny.<br/>Transparentní nakládání s prostředky města, projednání a prosazování koncepce sportu.
 order: 1

@@ -4,7 +4,7 @@ uid: turnov-transparentni
 campaignCategoryUid: turnov2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: david.schindler
+garant: zbynek.miklik
 perex: >
     Transparentní, rovné a nediskriminační veřejné zakázky města Turnov a hospodaření s majetkem. Průhledné dotační procesy.<br/>
 order: 7

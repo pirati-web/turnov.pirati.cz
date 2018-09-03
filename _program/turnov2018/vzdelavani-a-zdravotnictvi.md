@@ -4,7 +4,7 @@ uid: vzdelavani-a-zdravotnictvi
 campaignCategoryUid: turnov2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: david.schindler
+garant: daniela.weissova
 perex: >
     Podpora alternativních škol, školek a alternativní výuky, aktivní spolupráce firem se školami. Zlepšení pracovních podmínek zaměstnanců nemocnice.
 order: 6
