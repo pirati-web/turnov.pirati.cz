@@ -14,5 +14,5 @@ mail:
 profiles:
 ---
 
-Daniela Lakatošová se narodila ...
+Daniela Lakatošová, 29 let
 

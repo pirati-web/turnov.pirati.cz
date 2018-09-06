@@ -7,8 +7,8 @@ category:
   - kandidat-obec
 ordclenove: 6  
 #  - kontaktni_osoba
-description: Sociální pracovnice ve státní správě
-profession: Sociální pracovnice ve státní správě a neziskovém sektoru
+description: Sociální pracovnice v neziskové organizaci
+profession: Sociální pracovnice v neziskové organizaci
 img: people/lucie-cernohouzova.jpg # zakomentuj radek dokud není fotka
 candidateDescription: expert na skoky # zobrazuje se v komunalni-volby
 mail:
