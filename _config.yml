@@ -18,7 +18,7 @@ email: pirati-turnov@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Piráti Turnov
 keywords: piráti, turnov, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody,  e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://turnov.pirati.cz # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
