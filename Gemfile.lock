@@ -141,10 +141,10 @@ DEPENDENCIES
   jekyll-theme-pirati (~> 6.6.1)
   json
   mini_magick
-  sprockets (~> 4.0.0.beta)
+  sprockets (= 4.0.0.beta8)
   tzinfo-data
   uglifier (~> 4.0.0)
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   1.16.2
+   1.16.4
