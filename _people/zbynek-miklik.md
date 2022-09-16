@@ -7,8 +7,8 @@ titles:
 category: 
   - clenove
 #  - pms
-ordclenove: 1
-description: Konzultant, poradenství a školení
+ordclenove: 2
+description: náměstek hejtmana, krajský radní pro ekonomiku, majetek a investice, veřejné zakázky a informatiku
 profession: elektronizace veřejné správy se specializací na veřejné zakázky, poradenství a školení v oblasti nákupu a zadávání veřejných zakázek
 img: people/zbynek-miklik.jpg # zakomentuj radek dokud není fotka
 #candidateDescription: expert na skoky # zobrazuje se v komunalni-volby
@@ -21,6 +21,10 @@ profiles:
 ---
 
 Zbyněk Miklík se narodil v 17. února 1975 v Boskovicích, studoval v Brně, žil v Praze a nyní již šestým rokem žije v Turnově. Je ženatý, má dvě děti. Členem Pirátské strany je od května 2018
+
+Piráti jsou se vší skromností jako já. Jsou pracovití, logicky myslící lidé, kteří dokáží pojmenovat problémy a hledat řešení a nesledovat u toho svůj osobní prospěch. Odpovědnost za budoucnost mých dětí a nespokojenost s větou “nějak bylo a nějak bude”, mě přiměla vstoupit do komunální politiky. Když jsme v roce 2018 uspěli ve volbách a stal jsem se radním Turnova.
+
+Věřím v úspěch Pirátů v Libereckém kraji, myslím si, že zde žije mnoho podobně smýšlejících lidí jako jsme my Piráti a také věřím, že svými zkušenostmi přispěji k rozvoji celého kraje. Nic se ale nestane hned, vše má svůj čas a k cíli je třeba dojít postupnými kroky, a mě tato cesta baví.
 
 **Vzdělání/práce:** 
 - Mendelova zemědělská a lesnická univerzita v Brně (fakulta provozně ekonomická + fakulta informatiky)
