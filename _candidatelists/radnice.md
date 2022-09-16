@@ -6,20 +6,20 @@ leader:
   uid: ivan.drevikovsky
   age: 27
   profession: Student VŠ ekonomie a managementu, OSVČ v oboru pojišťovnictví, spoluzakladatel spolku Turnov pomáhá
-  description: (* 7. července 1995), rodilý Turnovák, student VŠ ekonomie a managementu, podniká oboru pojišťovnictví. Členem Pirátské strany od roku 2021.
+  description: Rodilý Turnovák, člen Pirátské strany od roku 2021
   party: Piráti
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: zbynek.miklik
     age: 47
-    profession: náměstek hejtmana, krajský radní pro ekonomiku, majetek a investice, veřejné zakázky a informatiku. Členem Pirátské strany od roku 2018.
-    description: (* 7. února 1975), narozen v Boskovicích, náměstek hejtmana. 
+    profession: náměstek hejtmana, krajský radní pro ekonomiku, majetek a investice, veřejné zakázky a informatiku. 
+    description: Narozen v Boskovicích, člen Pirátské strany od roku 2018 
     party: Piráti
   - uid: david.schindler
     age: 28
     profession: vlakvedoucí, sládek
     party: Piráti
-    description: (*17. srpna 1994). Je čerstvě ženatý a bezdětný. Členem Pirátů je od září 2017. # zobrazuje se v komunalni-volby
+    description: Čerstvě ženatý a bezdětný, člen Pirátů od září 2017
   - uid: daniela.weissova
     age: 61
     profession: krajská zastupitelka, obecní zastupitelka, zdravotní klaun, dramaturg KC Turnov, aktivní herečka

@@ -49,11 +49,11 @@ organization:
 homepageBanner:
   display: true
   link: /komunalni-volby/
-  title: Komunální volby 2018
+  title: Komunální volby 2022
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-    default: banner-default.jpg
-    mobile: banner-mobile.jpg
+    default: turnov_banner.jpg
+    mobile: turnov_banner.jpg
 
 calendar:
   # Get api key from Google Developer Console

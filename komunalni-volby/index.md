@@ -2,8 +2,8 @@
 #layout: page
 #title: Komunální volby 2018
 layout: communal-elections
-title: Komunální volby v Turnově
-campaignCategoryUid: turnov2018
+title: Komunální volby 2022 - Turnov
+campaignCategoryUid: turnov2022
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
